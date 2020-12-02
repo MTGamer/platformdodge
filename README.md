@@ -1,1 +1,4 @@
 # platformdodge
+
+THIS IS JUST A SCHOOL PROJECT
+MADE BY SET-6502
